@@ -26,12 +26,3 @@ GROUP BY – To group data by fields
 
 HAVING – To filter after aggregation
 
-💡 Hints / Mini Guide Apply aggregate functions on numeric columns
-
-Use GROUP BY to categorize records
-
-Use HAVING to filter aggregated data
-
-Use JOIN to connect related tables
-
-✅ Outcome Ability to summarize and analyze tabular data
